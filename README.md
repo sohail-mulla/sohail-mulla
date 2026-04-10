@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello !
 
-<!--
-**sohail-mulla/sohail-mulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Curious and enthusiastic developer, exploring software development  
+- Currently building projects and learning different technologies  
+- Interested in understanding how systems work  
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Technology     | Skills |
+|----------------|--------|
+| Java           | Core Java, OOP |
+| C++            | Basics |
+| HTML & CSS     | Web fundamentals |
+| MySQL          | Database basics |
+| Bootstrap      | Responsive design |
+| Tailwind CSS   | Modern UI styling |
+
+## What I'm Doing
+- Building projects to strengthen practical knowledge  
+- Learning frameworks and tools  
+- Improving problem-solving skills  
+
+## Goals
+- Grow with emerging technologies  
+- Adapt to AI-driven development  
+- Build meaningful and impactful solutions  
+
+## GitHub Activity
+- Actively learning and uploading projects  
+- Consistently improving through practice  
+
+
