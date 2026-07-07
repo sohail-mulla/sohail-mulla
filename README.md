@@ -9,7 +9,7 @@
 - Follow me on **[LinkedIn](https://linkedin.com/in/your-linkedin-handle)** to stay updated.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sohail-mulla&label=Profile+views&color=0e75b6&style=flat" alt="sohail-mulla" />
+  <img src="https://komarev.com/ghpvc/?username=sohail-mulla&label=Profile+views&color=2ecc71&style=flat" alt="sohail-mulla" />
 </p>
 
 ---
