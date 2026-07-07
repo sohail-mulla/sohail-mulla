@@ -24,47 +24,44 @@
 
 ## Tech Stack
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
-</p>
-
-<p align="center"><b>Backend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-</p>
-
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-</p>
-
-<p align="center"><b>Databases & Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,maven,postman,linux" />
-</p>
-
-<p align="center"><b>IDEs</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail-mulla&show_icons=true&theme=default&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-mulla&theme=default&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail-mulla&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohail-mulla&theme=github_dark" />
-</p>
+<table width="100%">
+  <tr>
+    <th align="left" width="20%">Category</th>
+    <th align="left" width="80%">Skills</th>
+  </tr>
+  <tr>
+    <td align="left"><strong>Languages</strong></td>
+    <td align="left">Java, C++, Python, JavaScript, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Core Java</strong></td>
+    <td align="left">OOP, Collections Framework, Exception Handling, Multithreading, File Handling, Generics, Serialization, Java 8 Features</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Backend</strong></td>
+    <td align="left">Spring Boot, Spring Security, Spring Framework, Hibernate, JPA, JDBC, Servlets, REST APIs</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Frontend</strong></td>
+    <td align="left">React, JSP, Bootstrap, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Databases</strong></td>
+    <td align="left">MySQL, SQL</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Tools</strong></td>
+    <td align="left">Git, GitHub, Maven, Postman, Apache Tomcat, Linux</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Development Environments</strong></td>
+    <td align="left">IntelliJ IDEA, Eclipse, Spring Tool Suite (STS), VS Code, MySQL Workbench</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Fundamentals</strong></td>
+    <td align="left">Data Structures & Algorithms, Problem Solving</td>
+  </tr>
+</table>
 
 ---
 
