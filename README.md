@@ -20,24 +20,34 @@
 - Comfortable working across the stack — from Spring Boot APIs to React front ends
 - Learning system design and problem-solving through consistent practice
 
+---
+
 ## Tech Stack
 
-| Category   | Skills |
-|------------|--------|
-| Languages  | Java, C++, Python, JavaScript, HTML, CSS |
-| Backend    | Spring Boot, Spring Security, Hibernate, JPA, REST APIs, JDBC, Servlets, JSP |
-| Frontend   | React, Bootstrap, Tailwind CSS |
-| Databases  | MySQL, SQL |
-| Tools      | Git, GitHub, Maven, Postman, Apache Tomcat, Linux |
-| IDEs       | IntelliJ IDEA, Eclipse, STS, VS Code, MySQL Workbench |
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
+</p>
 
-## Featured Projects
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
 
-- 📚 **[Library Management System](https://github.com/sohail-mulla/library-management-system)** — Console-based Java app managing book records and transactions using OOP and Collections (`ArrayList`, `HashMap`).
-- 💰 **[Expense Tracker](https://github.com/sohail-mulla/expense-tracker)** — Java app for recording, categorizing, and summarizing expenses with file handling for data persistence.
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
 
-## Experience
-- **D2AS Support Associate, Amazon** *(Aug 2022 – Mar 2023)* — Resolved technical issues, diagnosed root causes, and collaborated across teams in a fast-paced support environment.
+<p align="center"><b>Databases & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,maven,postman,linux" />
+</p>
+
+<p align="center"><b>IDEs</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
+</p>
 
 ---
 
