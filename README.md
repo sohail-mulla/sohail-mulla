@@ -65,6 +65,10 @@
 
 ---
 
+<a href="https://gitviewsmap.onrender.com/sohail-mulla">
+  <img src="https://gitviewsmap.onrender.com/badge/sohail-mulla.svg" alt="GitViewsMap Visitor Badge" />
+</a>
+
 <p align="center">
   <i>Always open to learning, collaborating, and building things that matter. Feel free to connect!</i>
 </p>
